@@ -1,2 +1,2 @@
 # git practice
-## pull request
+## branch strategy
